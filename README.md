@@ -1,5 +1,5 @@
 # 💫About Me :
-HI GUYS ! My Name í Hoàng 
+Hi Guys ! My name is Hoàng 
 - 🔭 I’m currently working on Back-end Developer
 - 🌱 I’m currently learning CCNA, MSCA, SQL....
 - 👯 I'm looking to cooperate in all fields
