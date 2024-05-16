@@ -1,6 +1,6 @@
 # 💫About Me :
 Hi Guys ! My name is Hoàng 
-- 🔭 I’m currently working on Back-end Developer
+- 🔭 I’m currently working on System Engineer
 - 🌱 I’m currently learning CCNA, MSCA, SQL....
 - 👯 I'm looking to cooperate in all fields
 - ⚡ Fun fact: I love Video games, Premier League, Travel...
